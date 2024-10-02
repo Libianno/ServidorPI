@@ -1,0 +1,3 @@
+Adicionar relacionamentos e fazer processamento dos mesmos usando o banco de dados
+Setar nomes como únicos no banco de dados
+    Tratar exceptions associadas
